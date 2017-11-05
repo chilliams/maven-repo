@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 05 18:44:40 EST 2017
+soy-2017-04-23-chilliams-soyutils_usegoog.js>=
+soy-2017-04-23-chilliams.pom>=
+soy-2017-04-23-chilliams-SoyToIncrementalDomSrcCompiler.jar>=
+soy-2017-04-23-chilliams-SoyToJsSrcCompiler.jar>=
+soy-2017-04-23-chilliams-jssrc_js.jar>=
+soy-2017-04-23-chilliams-SoyToPySrcCompiler.jar>=
+soy-2017-04-23-chilliams-SoyParseInfoGenerator.jar>=
+soy-2017-04-23-chilliams-SoyMsgExtractor.jar>=
+soy-2017-04-23-chilliams-with-dependencies.jar>=
+soy-2017-04-23-chilliams.jar>=
